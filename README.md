@@ -7,8 +7,8 @@ This repository containe typescript assignment. Slove 8 problem and store code s
 ```text
 typescriptAssignment/
 ├── solutions.ts
-├── [blog-name-1].md
-├── [blog-name-2].md
+├── type-vs-interface.md
+├── union-vs-intersection.md
 └── README.md
 
 #If you want to run this code or check this code.
