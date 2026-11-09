@@ -1,4 +1,4 @@
-#TypeScript Assignment .
+## TypeScript Assignment .
 
 This repository containe typescript assignment. Slove 8 problem and store code solution.ts file.
 
